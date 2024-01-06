@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Florian Orgeret</title>
-    <link href="https://florianorgeret.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://florianorgeret.github.io/gh-pages" />
+    <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
+    <link href="https://florianorgeret.github.io" />
     <updated>2024-01-07T00:00:17+01:00</updated>
     <author>
         <name>Florian</name>
     </author>
-    <id>https://florianorgeret.github.io/gh-pages</id>
+    <id>https://florianorgeret.github.io</id>
 
     <entry>
         <title>Home</title>
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/about-me.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/about-me.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/6/FlorianOrgeret_Cut.JPG" medium="image" />
+        <link href="https://florianorgeret.github.io/about-me.html"/>
+        <id>https://florianorgeret.github.io/about-me.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/6/FlorianOrgeret_Cut.JPG" medium="image" />
 
         <updated>2024-01-07T00:00:17+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/6/FlorianOrgeret_Cut.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/6/FlorianOrgeret_Cut.JPG" class="type:primaryImage" alt="" /></p>
                 <p>As an evolutionary ecologist, my main focus is on ontogeny, movement ecology, and dispersal. I specialize in analyzing extensive datasets from biologging and tracking devices deployed on juvenile animals. My main research aims to better understand the development of individual variation with age and its potential impact on metapopulation dynamics, especially in relation to global change. <br><br>My career is characterized by a dedication to continuous learning and the promotion of knowledge exchange through organizing regular, informal hands-on workshops. These sessions enable me not only to pass on new analysis techniques, but also to encourage participants from different institutions to make their own contributions. I am deeply convinced that this mutual sharing of knowledge is essential to our collective advancement and progress!</p>
 <p>I am currently a postdoctoral researcher at the Swiss Ornithological Institute's Ecological Research Unit, working on the <a href="https://www.vogelwarte.ch/modx/en/projects/ecological-research/mechanisms-of-population-dynamics-in-red-kites" target="_blank" rel="noopener">red kite project</a> up to the end of 2024.</p>
             ]]>
@@ -33,16 +33,16 @@
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/contact.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/contact.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/5/DSC_0239.JPG" medium="image" />
+        <link href="https://florianorgeret.github.io/contact.html"/>
+        <id>https://florianorgeret.github.io/contact.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/5/DSC_0239.JPG" medium="image" />
 
         <updated>2024-01-06T23:53:37+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/5/DSC_0239.JPG" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--left"><img loading="lazy"  src="https://florianorgeret.github.io/gh-pages/media/posts/5/Untitled.png" alt="" width="199" height="199" sizes="100vw" srcset="https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-xs.png 300w ,https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-sm.png 480w ,https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-md.png 768w ,https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-lg.png 1024w ,https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-xl.png 1360w ,https://florianorgeret.github.io/gh-pages/media/posts/5/responsive/Untitled-2xl.png 1600w"></figure>Even though I have some knowledge of <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a> and <a href="https://julialang.org/" target="_blank" rel="noopener noreferrer">Julia</a>, I primarily use <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">R</a> and <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">RStudio</a> on a regular basis. Among the various R packages, I am especially familiar with: <a href="https://www.tidyverse.org/" target="_blank" rel="noopener noreferrer">tidyverse</a>, <a href="https://www.tidymodels.org/" target="_blank" rel="noopener noreferrer">tidymodels</a>, <a href="https://rstudio.github.io/leaflet/" target="_blank" rel="noopener noreferrer">leaflet</a>, <a href="https://r-spatial.github.io/sf/" target="_blank" rel="noopener noreferrer">sf</a>, <a href="https://rspatial.org/pkg/" target="_blank" rel="noopener noreferrer">terra</a>, <a href="https://rspatial.org/raster/pkg/index.html" target="_blank" rel="noopener noreferrer">raster</a>, <a href="https://github.com/edzer/sp/" target="_blank" rel="noopener noreferrer">sp</a>, <a href="https://github.com/jmsigner/amt" target="_blank" rel="noopener noreferrer">amt</a>, <a href="https://cran.r-project.org/web/packages/trip/vignettes/trip.html" target="_blank" rel="noopener noreferrer">trip</a>, <a href="https://cran.r-project.org/web/packages/adehabitatLT/index.html" target="_blank" rel="noopener noreferrer">adehabitatLT</a>, <a href="https://cran.r-project.org/web/packages/adehabitatHR/index.html" target="_blank" rel="noopener noreferrer">adehabitatHR</a>, <a href="https://cran.r-project.org/web/packages/mgcv/index.html" target="_blank" rel="noopener noreferrer">mgcv</a>, <a href="https://gavinsimpson.github.io/gratia/" target="_blank" rel="noopener noreferrer">gratia</a>, <a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank" rel="noopener noreferrer">lme4</a>, <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank" rel="noopener noreferrer">nlme</a>, <a href="https://cran.r-project.org/web/packages/FactoMineR/index.html" target="_blank" rel="noopener noreferrer">FactoMineR</a>, <a href="https://cran.r-project.org/web/packages/MuMIn/index.html" target="_blank" rel="noopener noreferrer">MuMin</a>, <a href="https://cran.r-project.org/web/packages/zoo/index.html" target="_blank" rel="noopener noreferrer">zoo</a>, <a href="https://cran.r-project.org/web/packages/moveHMM/index.html" target="_blank" rel="noopener noreferrer">moveHMM</a>, <a href="https://github.com/ianjonsen/aniMotum" target="_blank" rel="noopener noreferrer">aniMotum</a>, <a href="https://cran.r-project.org/web/packages/crawl/index.html" target="_blank" rel="noopener noreferrer">crawl</a>, <a href="https://cran.r-project.org/web/packages/argosfilter/index.html" target="_blank" rel="noopener noreferrer">argosfilter</a>, <a href="https://cran.r-project.org/web/packages/EMbC/index.html" target="_blank" rel="noopener noreferrer">EMbC</a>, <a href="https://cran.r-project.org/web/packages/segclust2d/index.html" target="_blank" rel="noopener noreferrer">segclust2d</a>,<a href="https://github.com/BastilleRousseau/lsmnsd" target="_blank" rel="noopener noreferrer"> lsmnsd</a>...<br><br>I am always enthusiastic about exchanging ideas, running analyses, and sharing codes. I am looking forward to expanding my horizons and seeking a postdoctoral position in 2025. If you are interested in any collaborations or believe my expertise could align with your future projects or needs, please do not hesitate to <a href="mailto:florianorgeret.gmail.com" target="_blank" rel="noopener noreferrer">write me</a>.</p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/5/DSC_0239.JPG" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--left"><img loading="lazy"  src="https://florianorgeret.github.io/media/posts/5/Untitled.png" alt="" width="199" height="199" sizes="100vw" srcset="https://florianorgeret.github.io/media/posts/5/responsive/Untitled-xs.png 300w ,https://florianorgeret.github.io/media/posts/5/responsive/Untitled-sm.png 480w ,https://florianorgeret.github.io/media/posts/5/responsive/Untitled-md.png 768w ,https://florianorgeret.github.io/media/posts/5/responsive/Untitled-lg.png 1024w ,https://florianorgeret.github.io/media/posts/5/responsive/Untitled-xl.png 1360w ,https://florianorgeret.github.io/media/posts/5/responsive/Untitled-2xl.png 1600w"></figure>Even though I have some knowledge of <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a> and <a href="https://julialang.org/" target="_blank" rel="noopener noreferrer">Julia</a>, I primarily use <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">R</a> and <a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noopener noreferrer">RStudio</a> on a regular basis. Among the various R packages, I am especially familiar with: <a href="https://www.tidyverse.org/" target="_blank" rel="noopener noreferrer">tidyverse</a>, <a href="https://www.tidymodels.org/" target="_blank" rel="noopener noreferrer">tidymodels</a>, <a href="https://rstudio.github.io/leaflet/" target="_blank" rel="noopener noreferrer">leaflet</a>, <a href="https://r-spatial.github.io/sf/" target="_blank" rel="noopener noreferrer">sf</a>, <a href="https://rspatial.org/pkg/" target="_blank" rel="noopener noreferrer">terra</a>, <a href="https://rspatial.org/raster/pkg/index.html" target="_blank" rel="noopener noreferrer">raster</a>, <a href="https://github.com/edzer/sp/" target="_blank" rel="noopener noreferrer">sp</a>, <a href="https://github.com/jmsigner/amt" target="_blank" rel="noopener noreferrer">amt</a>, <a href="https://cran.r-project.org/web/packages/trip/vignettes/trip.html" target="_blank" rel="noopener noreferrer">trip</a>, <a href="https://cran.r-project.org/web/packages/adehabitatLT/index.html" target="_blank" rel="noopener noreferrer">adehabitatLT</a>, <a href="https://cran.r-project.org/web/packages/adehabitatHR/index.html" target="_blank" rel="noopener noreferrer">adehabitatHR</a>, <a href="https://cran.r-project.org/web/packages/mgcv/index.html" target="_blank" rel="noopener noreferrer">mgcv</a>, <a href="https://gavinsimpson.github.io/gratia/" target="_blank" rel="noopener noreferrer">gratia</a>, <a href="https://cran.r-project.org/web/packages/lme4/index.html" target="_blank" rel="noopener noreferrer">lme4</a>, <a href="https://cran.r-project.org/web/packages/nlme/index.html" target="_blank" rel="noopener noreferrer">nlme</a>, <a href="https://cran.r-project.org/web/packages/FactoMineR/index.html" target="_blank" rel="noopener noreferrer">FactoMineR</a>, <a href="https://cran.r-project.org/web/packages/MuMIn/index.html" target="_blank" rel="noopener noreferrer">MuMin</a>, <a href="https://cran.r-project.org/web/packages/zoo/index.html" target="_blank" rel="noopener noreferrer">zoo</a>, <a href="https://cran.r-project.org/web/packages/moveHMM/index.html" target="_blank" rel="noopener noreferrer">moveHMM</a>, <a href="https://github.com/ianjonsen/aniMotum" target="_blank" rel="noopener noreferrer">aniMotum</a>, <a href="https://cran.r-project.org/web/packages/crawl/index.html" target="_blank" rel="noopener noreferrer">crawl</a>, <a href="https://cran.r-project.org/web/packages/argosfilter/index.html" target="_blank" rel="noopener noreferrer">argosfilter</a>, <a href="https://cran.r-project.org/web/packages/EMbC/index.html" target="_blank" rel="noopener noreferrer">EMbC</a>, <a href="https://cran.r-project.org/web/packages/segclust2d/index.html" target="_blank" rel="noopener noreferrer">segclust2d</a>,<a href="https://github.com/BastilleRousseau/lsmnsd" target="_blank" rel="noopener noreferrer"> lsmnsd</a>...<br><br>I am always enthusiastic about exchanging ideas, running analyses, and sharing codes. I am looking forward to expanding my horizons and seeking a postdoctoral position in 2025. If you are interested in any collaborations or believe my expertise could align with your future projects or needs, please do not hesitate to <a href="mailto:florianorgeret.gmail.com" target="_blank" rel="noopener noreferrer">write me</a>.</p>
 <p>I am also on <a href="https://www.researchgate.net/profile/Florian-Orgeret" target="_blank" rel="noopener noreferrer">ResearchGate</a>, <a href="https://twitter.com/FlOrgeret" target="_blank" rel="noopener noreferrer">Twitter (X)</a> and <a href="https://github.com/florianorgeret">GitHub</a></p>
             ]]>
         </content>
@@ -52,21 +52,21 @@
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/curriculum.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/curriculum.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/4/2012-08-20-219.JPG" medium="image" />
+        <link href="https://florianorgeret.github.io/curriculum.html"/>
+        <id>https://florianorgeret.github.io/curriculum.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/4/2012-08-20-219.JPG" medium="image" />
 
         <updated>2024-01-06T23:52:32+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://florianorgeret.github.io/gh-pages/media/posts/4/2012-08-20-219.JPG" alt="" />
+                        <img src="https://florianorgeret.github.io/media/posts/4/2012-08-20-219.JPG" alt="" />
                     <h3><strong>RESEARCH &amp; EDUCATION</strong></h3>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/4/2012-08-20-219.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/4/2012-08-20-219.JPG" class="type:primaryImage" alt="" /></p>
                 <h3><strong>RESEARCH &amp; EDUCATION</strong></h3>
 
 <p><strong>POST-DOCTORAL RESEARCHER | 2021-2024<br></strong><a href="https://www.vogelwarte.ch/en/" target="_blank" rel="noopener noreferrer">Swiss Ornithological Institute</a>, Ecological Research Unit, Switzerland.</p>
@@ -93,15 +93,15 @@
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/publications.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/publications.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/3/IMG_6640.JPG" medium="image" />
+        <link href="https://florianorgeret.github.io/publications.html"/>
+        <id>https://florianorgeret.github.io/publications.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/3/IMG_6640.JPG" medium="image" />
 
         <updated>2024-01-06T23:50:29+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/3/IMG_6640.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/3/IMG_6640.JPG" class="type:primaryImage" alt="" /></p>
                 <h1>Peer reviewed publications:</h1>
 <p>See also my <a href="https://scholar.google.fr/citations?user=yj-6paQAAAAJ&amp;hl=fr" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
 <table style="border-collapse: collapse; width: 104.844%; height: 1828.09px; border-style: hidden;" border="0">
@@ -227,15 +227,15 @@
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/research-topics.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/research-topics.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/2/IMG_7026.JPG" medium="image" />
+        <link href="https://florianorgeret.github.io/research-topics.html"/>
+        <id>https://florianorgeret.github.io/research-topics.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/2/IMG_7026.JPG" medium="image" />
 
         <updated>2024-01-06T23:55:45+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/2/IMG_7026.JPG" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/2/IMG_7026.JPG" class="type:primaryImage" alt="" /></p>
                 <h1>Ontogeny</h1>
 <p>Ontogeny, the developmental process of an individual organism from its earliest stages through maturity, plays a crucial role in ecology, particularly in understanding animal behavior and population dynamics. My interest in this field was sparked during my PhD, where I focused on the ontogeny of diving and foraging behavior in penguins and seals. </p>
 <p>By utilizing <a href="https://wildlifecomputers.com/our-tags/splash-archiving-tags/splash10/" target="_blank" rel="noopener noreferrer">ARGOS relayed Time-Depth Recorders (TDRs) and accelerometers</a> to closely monitor the behaviors of young <a href="https://royalsocietypublishing.org/doi/10.1098/rsbl.2016.0490" target="_blank" rel="noopener noreferrer">king penguins</a>, <a href="https://www.int-res.com/abstracts/meps/v609/p1-16/" target="_blank" rel="noopener noreferrer">emperor penguins</a>, and <a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.4717" target="_blank" rel="noopener noreferrer">southern elephant seals</a>. These devices enabled us to track the juveniles’ extensive dispersion across the Southern Ocean, their adaptation to local currents and frontal zones, and their spatial segregation from adults. Notably, these juveniles displayed rapid development in diving capabilities, yet they didn't fully match adult efficiency even after a year.</p>
@@ -257,19 +257,19 @@
         <author>
             <name>Florian</name>
         </author>
-        <link href="https://florianorgeret.github.io/gh-pages/research.html"/>
-        <id>https://florianorgeret.github.io/gh-pages/research.html</id>
-        <media:content url="https://florianorgeret.github.io/gh-pages/media/posts/1/Tracking-Dispersal_red.jpg" medium="image" />
+        <link href="https://florianorgeret.github.io/research.html"/>
+        <id>https://florianorgeret.github.io/research.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/1/Tracking-Dispersal_red.jpg" medium="image" />
 
         <updated>2024-01-06T23:55:02+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://florianorgeret.github.io/gh-pages/media/posts/1/Tracking-Dispersal_red.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://florianorgeret.github.io/media/posts/1/Tracking-Dispersal_red.jpg" class="type:primaryImage" alt="" /></p>
                 <p>We have entered the 'golden age' of bio-telemetry, a period when these devices can generate extremely large datasets on the movement of individuals through repeated measurements. This wealth of data is invaluable for investigating individual variations, offering detailed insights that were previously unattainable. Consequently, specialized analytical tools, which are continually evolving to meet these new demands, have become essential. This progress is particularly evident in environments like <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">R</a>, where a community-driven approach significantly enhances the development of open-source software.</p>
 <p>During my Master's in Applied Ecology and subsequent Master's in Biostatistics, I became intrigued by the exploration of various statistical methods. This initial interest further evolved through my internships, where I began to develop a deeper understanding of these tools. My expertise in these methodologies was then significantly enhanced during my PhD and postdoctoral research, aligning with the rapid advancements in the field.</p>
 <p>As a naturalist deeply interested in birds and mammals, I became captivated by the developmental processes of young animals post-independence, focusing on how they learn to move and survive in their new environments.</p>
-<p>Hence, by utilizing state-of-the-art analytical tools, my principal research is divided into three interconnected <a href="https://florianorgeret.github.io/gh-pages/research-topics.html">topics</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">:</span></p>
+<p>Hence, by utilizing state-of-the-art analytical tools, my principal research is divided into three interconnected <a href="https://florianorgeret.github.io/research-topics.html">topics</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">:</span></p>
 <ol>
 <li>
 <p><strong>Ontogeny</strong>: The study of an organism's development from early stages to maturity, examining how physical and behavioral traits change over time.</p>
