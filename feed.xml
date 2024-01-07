@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-01-07T15:48:44+01:00</updated>
+    <updated>2024-01-07T15:49:33+01:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -277,7 +277,7 @@
         <id>https://florianorgeret.github.io/research.html</id>
         <media:content url="https://florianorgeret.github.io/media/posts/1/Tracking-Dispersal_red.jpg" medium="image" />
 
-        <updated>2024-01-07T15:00:17+01:00</updated>
+        <updated>2024-01-07T15:49:33+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -285,7 +285,7 @@
                 <p>We have entered the 'golden age' of bio-telemetry, a period when these devices can generate extremely large datasets on the movement of individuals through repeated measurements. This wealth of data is invaluable for investigating individual variations, offering detailed insights that were previously unattainable. Consequently, specialized analytical tools, which are continually evolving to meet these new demands, have become essential. This progress is particularly evident in environments like <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">R</a>, where a community-driven approach significantly enhances the development of open-source software.</p>
 <p>During my Master's in Applied Ecology and subsequent Master's in Biostatistics, I became intrigued by the exploration of various statistical methods. This initial interest further evolved through my internships, where I began to develop a deeper understanding of these tools. My expertise in these methodologies was then significantly enhanced during my PhD and postdoctoral research, aligning with the rapid advancements in the field.</p>
 <p>As a naturalist deeply interested in birds and mammals, I became captivated by the developmental processes of young animals post-independence, focusing on how they learn to move and survive in their new environments.</p>
-<p>Hence, by utilizing state-of-the-art analytical tools, my principal research is divided into  interconnected <a href="https://florianorgeret.github.io/research-topics.html">topics</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">:</span></p>
+<p>Hence, by utilizing state-of-the-art analytical tools, my principal research is divided into interconnected <a href="https://florianorgeret.github.io/research-topics.html">topics</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">:</span></p>
 <ol>
 <li>
 <p><strong>Ontogeny</strong>: The study of an organism's development from early stages to maturity, examining how physical and behavioral traits change over time.</p>
