@@ -3,12 +3,30 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-04-30T14:30:38+02:00</updated>
+    <updated>2024-05-03T14:26:32+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
     <id>https://florianorgeret.github.io</id>
 
+    <entry>
+        <title>R-Gallery</title>
+        <author>
+            <name>Florian</name>
+        </author>
+        <link href="https://florianorgeret.github.io/r-gallery.html"/>
+        <id>https://florianorgeret.github.io/r-gallery.html</id>
+        <media:content url="https://florianorgeret.github.io/media/posts/8/Rstudio_Website.jpeg" medium="image" />
+
+        <updated>2024-05-03T14:17:25+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://florianorgeret.github.io/media/posts/8/Rstudio_Website.jpeg" class="type:primaryImage" alt="" /></p>
+                <p><em>Coming Soon!</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
