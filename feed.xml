@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-05-05T13:15:12+02:00</updated>
+    <updated>2024-05-05T13:29:00+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -23,11 +23,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://florianorgeret.github.io/media/posts/8/IMG_2599.JPG" class="type:primaryImage" alt="" /></p>
-                <p class="iframe-container"><div class="post__iframe"><iframe loading="lazy" width="300" height="200" style="border: none;" src="https://florianorgeret.github.io/dynamic-map/" data-mce-fragment="1"></iframe></div>
-<p class="caption"><em>Figure caption: [Description of the first iframe]</em></p>
-<p class="iframe-container"><div class="post__iframe"><iframe loading="lazy" width="750" height="750" frameborder="no" src="https://florianorgeret.shinyapps.io/shiny-dives/"></iframe></div>
-<p class="caption"><em>Figure caption: [Description of the second iframe]</em></p>
-<p><em>=&gt; More Soon!</em></p>
+                <p><em>Coming Soon!</em></p>
             ]]>
         </content>
     </entry>
