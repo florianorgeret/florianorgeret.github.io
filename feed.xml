@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-05-04T23:41:13+02:00</updated>
+    <updated>2024-05-05T13:11:36+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -23,7 +23,11 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://florianorgeret.github.io/media/posts/8/IMG_2599.JPG" class="type:primaryImage" alt="" /></p>
-                <p><em>Coming Soon!</em></p>
+                <p class="iframe-container"><div class="post__iframe"><iframe loading="lazy" width="300" height="200" style="border: none;" src="https://florianorgeret.github.io/dynamic-map/" data-mce-fragment="1"></iframe></div>
+<p class="caption"><em>Figure caption: [Description of the first iframe]</em></p>
+<p class="iframe-container"><div class="post__iframe"><iframe loading="lazy" width="750" height="750" frameborder="no" src="https://florianorgeret.shinyapps.io/shiny-dives/"></iframe></div>
+<p class="caption"><em>Figure caption: [Description of the second iframe]</em></p>
+<p><em>=&gt; More Soon!</em></p>
             ]]>
         </content>
     </entry>
@@ -275,7 +279,7 @@
 <p>Ontogeny, the developmental process of an individual organism from its earliest stages through maturity, plays a crucial role in ecology, particularly in understanding animal behavior and population dynamics. My interest in this field was sparked during my PhD, where I focused on the ontogeny of diving and foraging behavior in penguins and seals. </p>
 <p>By utilizing <a href="https://wildlifecomputers.com/our-tags/splash-archiving-tags/splash10/" target="_blank" rel="noopener noreferrer">ARGOS relayed Time-Depth Recorders (TDRs) and accelerometers</a> to closely monitor the behaviors of young <a href="https://royalsocietypublishing.org/doi/10.1098/rsbl.2016.0490" target="_blank" rel="noopener noreferrer">king penguins</a>, <a href="https://www.int-res.com/abstracts/meps/v609/p1-16/" target="_blank" rel="noopener noreferrer">emperor penguins</a>, and <a href="https://onlinelibrary.wiley.com/doi/10.1002/ece3.4717" target="_blank" rel="noopener noreferrer">southern elephant seals</a>. These devices enabled us to track the juveniles’ extensive dispersion across the Southern Ocean, their adaptation to local currents and frontal zones, and their spatial segregation from adults. Notably, these juveniles displayed rapid development in diving capabilities, yet they didn't fully match adult efficiency even after a year.</p>
 <p>This research revealed the complex nature of the ontogeny of foraging behavior, highlighting the interplay between innate behavior, individual traits, and environmental factors. The insights from these studies have enhanced our comprehension of marine predators' behavior and drawn attention to the crucial first year at sea, a period noted for notable mortality in the three species examined.</p>
-<div class="post__iframe"><iframe loading="lazy" width="750" height="750" frameborder="no" src="https://florianorgeret.shinyapps.io/shiny-dives/"></iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="750" height="850" frameborder="no" src="https://florianorgeret.shinyapps.io/shiny-dives/"></iframe></div>
 <h1 id="#mcetoc_1hjcvaj1t8v">Movement Ecology</h1>
 <p>Movement ecology is a field focused on understanding how organisms move through space and time, specifically looking at the patterns, mechanisms, and consequences of their movements. This discipline is particularly critical in studying animals' habitat selection processes, migration paths, and overall spatial behavior. Tracking devices like <a href="https://www.argos-system.org/" target="_blank" rel="noopener noreferrer">ARGOS</a> and <a href="https://en.wikipedia.org/wiki/GPS_animal_tracking" target="_blank" rel="noopener noreferrer">GPS</a>, which rely on satellite technology, are instrumental in this field, providing fine-scale location data. These devices allow us to gather detailed, continuous data on individual movements, significantly enhancing our understanding of animal behavior in their natural habitats.</p>
 <p>Such tools have revolutionized our understanding of juvenile movement and habitat selection. My interest in this field was particularly piqued by research on juvenile king penguins, as outlined in the article "<a href="https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-019-0175-3" target="_blank" rel="noopener noreferrer">Exploration during early life: distribution, habitat, and orientation preferences in juvenile king penguins.</a>" In this study we tracked juvenile penguins using satellite relay tags, revealing their innate and learned skills in navigating to foraging areas. The research underscored the criticality of the first year at sea for long-lived species and provided unprecedented insights into their distribution, habitat preferences, and orientation. Read a nice summary of this article made by a student for the general public <a href="https://papiermachesciences.org/2021/10/19/naviguer-quand-on-na-jamais-navigue-mieux-comprendre-le-comportement-en-mer-des-manchots-royaux-grace-aux-donnees-satellites/?v=C" target="_blank" rel="noopener noreferrer">here</a> (in French).</p>
