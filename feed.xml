@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-05-07T15:36:49+02:00</updated>
+    <updated>2024-05-07T16:23:46+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -266,7 +266,7 @@
 </div>
 <h1 id="mcetoc_1hjgia1641"></h1>
 <h1 id="mcetoc_1hji6nv9st">Climate Change</h1>
-<p>In our paper, "<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13920" target="_blank" rel="noopener noreferrer">Climate change impacts on seabirds and marine mammals: Theimportance of study duration, thermal tolerance and generation time</a>" we conduct a systematic review of seabirds and marine mammals in response to climate change and variability. This assessment includes<a href="https://florianorgeret.github.io/dynamic-map/" target="_blank" rel="noopener noreferrer"> mapping the global distribution of climate studies</a> on these species, identifying the required study duration to detect climate change impacts, assessing species vulnerability based on thermal ranges and age at first breeding, and providing recommendations for future assessments of climate change impacts on marine vertebrates.</p>
+<p>In our paper, "<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13920" target="_blank" rel="noopener noreferrer">Climate change impacts on seabirds and marine mammals: The importance of study duration, thermal tolerance and generation time</a>" we conduct a systematic review of seabirds and marine mammals in response to climate change and variability. This assessment includes<a href="https://florianorgeret.github.io/dynamic-map/" target="_blank" rel="noopener noreferrer"> mapping the global distribution of climate studies</a> on these species, identifying the required study duration to detect climate change impacts, assessing species vulnerability based on thermal ranges and age at first breeding, and providing recommendations for future assessments of climate change impacts on marine vertebrates.</p>
 <figure ><div class="post__iframe"><iframe loading="lazy" width="300" height="200" style="border: none;" src="https://florianorgeret.github.io/dynamic-map/" data-mce-fragment="1"></iframe></div>
 <figcaption >This interactive map of climate change impact studies is an update of the <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.13920" target="_blank" rel="noopener noreferrer">paper</a>'s supplementary material. For each point, a popup window summarizes the study information with its corresponding DOI.</figcaption>
 </figure>
