@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2024-05-15T12:20:21+02:00</updated>
+    <updated>2024-05-15T14:44:45+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -23,15 +23,18 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://florianorgeret.github.io/media/posts/8/IMG_2599.JPG" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/anpe-2.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/anpe-2.gif" alt=""></a>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/anpe.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/anpe.gif" alt=""></a>
 <figcaption><br>Antarctic petrel (GLS) <br>© ESRI Source: U.S. National Park Service</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/hoopoes.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/hoopoes.gif" alt=""></a>
+<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/redkite-2.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/redkite-2.gif" alt=""></a>
+<figcaption><br>Red Kite (GPS-GSM) <br><a href="https://stadiamaps.com/" target="_blank" rel="noopener" style="color: #0000ee;">© Stadia Maps</a><a href="https://openmaptiles.org/" target="_blank" rel="noopener" style="color: #0000ee;">© OpenMapTiles</a><a href="https://www.openstreetmap.org/about/" target="_blank" rel="noopener" style="color: #0000ee;">© OpenStreetMap</a></figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/hoopoes-2.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/hoopoes-2.gif" alt=""></a>
 <figcaption><br>European hoopoes (GPS) <br><a href="https://www.mapbox.com/about/maps" target="_blank" rel="noopener" style="color: #0000ee;">© Mapbox</a><a href="https://www.openstreetmap.org/about/" target="_blank" rel="noopener" style="color: #0000ee;">© OpenStreetMap</a></figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/redkite.gif" data-size="600x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/redkite.gif" alt=""></a>
-<figcaption><br>Red Kite (GPS-GSM) <br><a href="https://stadiamaps.com/" target="_blank" rel="noopener" style="color: #0000ee;">© Stadia Maps</a><a href="https://openmaptiles.org/" target="_blank" rel="noopener" style="color: #0000ee;">© OpenMapTiles</a><a href="https://www.openstreetmap.org/about/" target="_blank" rel="noopener" style="color: #0000ee;">© OpenStreetMap</a></figcaption>
+<figure class="gallery__item"><a href="https://florianorgeret.github.io/media/posts/8/gallery/pup-2.gif" data-size="1100x600"><img loading="lazy" src="https://florianorgeret.github.io/media/posts/8/gallery/pup-2.gif" alt=""></a>
+<figcaption><br>Southern Elephant Seal (Argos)</figcaption>
 </figure>
 </div></div>
             ]]>
