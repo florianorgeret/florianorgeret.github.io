@@ -3,7 +3,7 @@
     <title>Florian Orgeret</title>
     <link href="https://florianorgeret.github.io/feed.xml" rel="self" />
     <link href="https://florianorgeret.github.io" />
-    <updated>2026-10-07T09:45:47+02:00</updated>
+    <updated>2026-10-07T10:01:28+02:00</updated>
     <author>
         <name>Florian</name>
     </author>
@@ -94,7 +94,15 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://florianorgeret.github.io/media/posts/3/IMG_6640.JPG" class="type:primaryImage" alt="" /></p>
-                <h1>Peer-reviewed publications:</h1>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1k4am18no7c">Peer-reviewed publications:</a></li>
+<li><a href="#mcetoc_1k4am18no7d">Book Chapters</a></li>
+<li><a href="#mcetoc_1k4am18no7e">Public Outreach</a></li>
+</ul>
+</div>
+<h1 id="mcetoc_1k4am18no7c">Peer-reviewed publications:</h1>
 <p>See also my <a href="https://scholar.google.fr/citations?user=yj-6paQAAAAJ&amp;hl=fr" target="_blank" rel="noopener noreferrer">Google Scholar</a>.</p>
 <table style="border-collapse: collapse; width: 104.844%; height: 1828.09px; border-style: hidden;" border="0">
 <tbody>
@@ -200,10 +208,6 @@
 <td style="width: 13.3152%; height: 107.288px; border-style: hidden; vertical-align: top;">
 <p class="align-left" style="margin: 0; padding: 0;"><strong>2022</strong></p>
 </td>
-<td style="width: 86.6848%; height: 107.288px; border-style: hidden;">Pistorius, P. A.,  Sydeman, W. J., Watanuki, Y., Thompson, S. A. and <strong>Orgeret, F.</strong> 2022. Chapter 8: Climate change: the ecological backdrop of seabird conservation. In: Conservation of Marine Birds. <strong>Elsevier Academic Press 2022</strong>. Eds L. Young, &amp; E. VanderWerf. doi: <a class="anchor doi anchor-default" href="https://doi.org/10.1016/B978-0-323-88539-3.00020-0" target="_blank" rel="noreferrer noopener" aria-label="Persistent link using digital object identifier" title="Persistent link using digital object identifier"><span class="anchor-text">https://doi.org/10.1016/B978-0-323-88539-3.00020-0</span></a> - <strong><a href="https://www.researchgate.net/publication/364087592_Climate_change_The_ecological_backdrop_of_seabird_conservation" target="_blank" rel="noopener noreferrer">PDF</a></strong></td>
-</tr>
-<tr style="height: 107.288px;">
-<td style="width: 13.3152%; height: 107.288px; border-style: hidden;"> </td>
 <td style="width: 86.6848%; height: 107.288px; border-style: hidden;"><strong>Orgeret, F. </strong>, Thiebault, A., Hindell, M., Lydersen, C., Kovac, K., Sydeman, W.J. and Pistorius, P.A. 2022. Climate change impacts on seabirds and marine mammals: The importance of study duration, thermal tolerance and generation time. <strong>Ecology Letters</strong>. doi: <a href="https://doi.org/10.1111/ele.13920" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/ele.13920</a> - <strong><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13920" target="_blank" rel="noopener noreferrer">PDF</a></strong></td>
 </tr>
 <tr style="height: 107.645px;">
@@ -256,7 +260,16 @@
 </tr>
 </tbody>
 </table>
-<h1>Public Outreach</h1>
+<h1 id="mcetoc_1k4am18no7d">Book Chapters</h1>
+<table style="border-collapse: collapse; width: 101.994%; border-style: hidden;" border="0">
+<tbody>
+<tr>
+<td style="width: 13.2519%; border-style: hidden; vertical-align: baseline; line-height: 1.5;"><strong>2022</strong></td>
+<td class="align-left" style="width: 86.7498%; border-style: hidden; vertical-align: baseline; line-height: 1.5;">Pistorius, P. A., Sydeman, W. J., Watanuki, Y., Thompson, S. A. and <strong>Orgeret, F.</strong> 2022. Chapter 8: Climate change: the ecological backdrop of seabird conservation. In: Conservation of Marine Birds. <strong>Elsevier Academic Press 2022</strong>. Eds L. Young, &amp; E. VanderWerf. doi: <a class="anchor doi anchor-default" href="https://doi.org/10.1016/B978-0-323-88539-3.00020-0" target="_blank" rel="noreferrer noopener" aria-label="Persistent link using digital object identifier" title="Persistent link using digital object identifier"><span class="anchor-text">https://doi.org/10.1016/B978-0-323-88539-3.00020-0</span></a> - <strong><a href="https://www.researchgate.net/publication/364087592_Climate_change_The_ecological_backdrop_of_seabird_conservation" target="_blank" rel="noopener noreferrer">PDF</a></strong></td>
+</tr>
+</tbody>
+</table>
+<h1 id="mcetoc_1k4am18no7e">Public Outreach</h1>
 <table style="border-collapse: collapse; width: 102.422%; height: 135.737px; border-style: hidden;" border="0">
 <tbody>
 <tr style="height: 135.737px;">
